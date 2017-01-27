@@ -1,0 +1,2 @@
+# wrapperr
+Golang error wrapper
